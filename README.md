@@ -5,6 +5,9 @@ Hey there!
 </h1>
 <h3 align="center">Full-Stack Web Developer ✔, Student at Microverse.org 🌟.
 </h3>
+<h3 align="center">Connect with me:
+<img src='./Images/handshake.gif' width="100px">
+</h3>
 <a href="https://twitter.com/EmmanuelBaliku1">
   <img align="left" alt="Emmanuel Balikuddembe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
