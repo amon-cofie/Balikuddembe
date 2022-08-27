@@ -1,5 +1,7 @@
+
+<img src="./Images/Earth.gif" width="24px">
 <h1 align="center>
-<img src="./Images/Earth.gif" width="24px"># hey there 
+hey there 
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
 </h1>
 <h3 align="center">Full-Stack Web Developer ✔, Student at Microverse.org 🌟.
