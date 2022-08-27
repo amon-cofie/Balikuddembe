@@ -1,6 +1,7 @@
 <img src="./Images/Earth.gif" width="24px"># hey there 
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
-
+<h3 align="center">Full-Stack Web Developer ✔, Student at Microverse.org 🌟.
+</h3>
 <a href="https://twitter.com/EmmanuelBaliku1">
   <img align="left" alt="Emmanuel Balikuddembe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
