@@ -7,7 +7,7 @@ Hey there!
 </h3>
 <h3 align="center">Connect with me:
 <img src='./Images/handshake.gif' width="100px">
-</h3>
+
 <a href="https://twitter.com/EmmanuelBaliku1">
   <img align="left" alt="Emmanuel Balikuddembe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
@@ -15,7 +15,7 @@ Hey there!
 <a href="https://www.linkedin.com/in/emmanuel-balikuddembe-763765b2/">
   <img align="left" alt="emmanuel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</h3>
 ![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
 
 <br />
