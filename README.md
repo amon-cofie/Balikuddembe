@@ -10,11 +10,11 @@ Hey there!
 </h3>
 <p align="center">
 <a href="https://twitter.com/EmmanuelBaliku1">
-  <img align="center" alt="Emmanuel Balikuddembe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+  <img align="center" alt="Emmanuel Balikuddembe | Twitter" width="44px" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
 
 <a href="https://www.linkedin.com/in/emmanuel-balikuddembe-763765b2/">
-  <img align="center" alt="emmanuel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="emmanuel's LinkedIN" width="44px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
 
