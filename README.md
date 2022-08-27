@@ -5,6 +5,11 @@ Hey there!
 </h1>
 <h3 align="center">Full-Stack Web Developer ✔, Student at Microverse.org 🌟.
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+meeting+you....;software+Engineer+from+Uganda;Pair-programming%2Cremote+work+devotee;Self+taught+developer;Happy+Learning+and+coding">
+</img>
+</p>
 <h3 align="center">Connect with me:
 <img src='./Images/handshake.gif' width="100px">
 </h3>
@@ -19,8 +24,6 @@ Hey there!
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
-
-<br />
 
 Hi, i'm [Balikuddembe Emmanuel](https://balixemma.me/) , a passionate self-taught full stack software Engineer and a freelance full stack web developer from Uganda in EastAfrica. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
