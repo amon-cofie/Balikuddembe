@@ -1,5 +1,5 @@
 <img src="./Images/Earth.gif" width="24px"># hey there 
-<img src="./images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
+<img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
 
 <a href="https://twitter.com/EmmanuelBaliku1">
   <img align="left" alt="Emmanuel Balikuddembe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
