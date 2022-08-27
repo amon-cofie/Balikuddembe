@@ -17,6 +17,7 @@ Hey there!
   <img align="left" alt="emmanuel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
+---
 ![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
 
 <br />
