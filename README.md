@@ -3,10 +3,9 @@
 Hey there!
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
 </h1>
-<h3 align="center">
--- I'm currently a Student at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+<h3 align="center">I'm currently a Student at [Microverse](https://dashboard.microverse.org)
 </h3>
-- 🔭 I’m currently a student at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML.............;CSS.............;JavaScript..............;React...................;Ruby..................;RoR.......................;Cheers+and+Happy+Learning........"><img>
