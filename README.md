@@ -7,7 +7,7 @@ Hey there!
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML;CSS;JavaScript;React;Ruby;RoR;Cheers+and+Happy+Learning........"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML.............;CSS.............;JavaScript..............;React...................;Ruby..................;RoR.......................;Cheers+and+Happy+Learning........"><img>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+meeting+you....;software+Engineer+from+Uganda;Pair-programming%2Cremote+work+devotee;Self+taught+developer;Happy+Learning+and+coding">
 </img> -->
 </p>
